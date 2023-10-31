@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@storefront-ui/shared/icons/list.js"],"names":["viewBox","paths"],"mappings":"2FAAA,OAAe,WACbA,QAAS,YACTC,MAAO,CACL,kE","file":"a7fa850.modern.js","sourcesContent":["export default {\n  viewBox: \"0 0 24 24\",\n  paths: [\n    \"M2 3h20v3.636H2zM2 17.545h20v3.636H2zM2 10.273h12.727v3.636H2z\"\n  ]\n};"],"sourceRoot":""}

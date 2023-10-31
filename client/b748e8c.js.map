@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@storefront-ui/shared/icons/chevron_left.js"],"names":["viewBox","paths"],"mappings":"2FAAA,OAAe,WACbA,QAAS,YACTC,MAAO,CACL,qD","file":"b748e8c.js","sourcesContent":["export default {\n  viewBox: \"0 0 24 24\",\n  paths: [\n    \"M15.636 2L17 3.6 9.746 12 17 20.4 15.636 22 7 12z\"\n  ]\n};"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[34],{263:function(w,n,o){"use strict";o.r(n),n.default={viewBox:"0 0 24 24",paths:["M2 3h20v3.636H2zM2 17.545h20v3.636H2zM2 10.273h12.727v3.636H2z"]}}}]);
+//# sourceMappingURL=a7fa850.modern.js.map

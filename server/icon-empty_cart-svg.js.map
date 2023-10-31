@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@storefront-ui/shared/icons/empty_cart.svg"],"names":[],"mappings":";;;;;;AAAA,iBAAiB,qBAAuB,gC","file":"icon-empty_cart-svg.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/empty_cart.a9cf18c.svg\";"],"sourceRoot":""}

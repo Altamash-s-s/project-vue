@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@storefront-ui/shared/icons/error.svg"],"names":["module","exports"],"mappings":"8EAAAA,EAAOC,QAAU,IAA0B,uB","file":"21e866b.js","sourcesContent":["module.exports = __webpack_public_path__ + \"img/error.f6bfce7.svg\";"],"sourceRoot":""}

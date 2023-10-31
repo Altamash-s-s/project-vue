@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./node_modules/@storefront-ui/shared/icons/chevron_right.js"],"names":[],"mappings":";;;;;;;AAAA;AAAe;AACf;AACA;AACA;AACA;AACA,CAAC,E","file":"icon-chevron_right.js","sourcesContent":["export default {\n  viewBox: \"0 0 24 24\",\n  paths: [\n    \"M8.364 22L7 20.4l7.254-8.4L7 3.6 8.364 2 17 12z\"\n  ]\n};"],"sourceRoot":""}
